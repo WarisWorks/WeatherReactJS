@@ -13,6 +13,7 @@ import ta from './ta.json';
 import zh from './zh.json';
 import hnd from './hnd.json';
 import he from './he.json';
+import ug from './ug.json';
 
 
 i18n.use(initReactI18next).init({
